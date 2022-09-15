@@ -1,0 +1,17 @@
+{
+    "name": "beldum/pdf",
+    "authors": [
+        {
+            "name": "Dmitry",
+            "email": "dmitriybelousov33@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Bmts\\" : "./bmts"
+        }
+    },
+    "require": {
+        "dompdf/dompdf": "^1.2"
+    }
+}
